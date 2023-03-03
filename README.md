@@ -36,7 +36,7 @@ Through plug-ins you can easily implement things like:
 ## Installation
 By Composer installation:
 ```
-composer require jaeger/querylist
+composer require alapi/querylist
 ```
 
 ## Usage
